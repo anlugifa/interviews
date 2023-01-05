@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RomanToInt": {
+      "commandName": "Project",
+      "commandLineArgs": "MCDLXXVI"
+    }
+  }
+}
