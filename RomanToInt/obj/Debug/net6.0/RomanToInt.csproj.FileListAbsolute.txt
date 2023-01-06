@@ -1,0 +1,15 @@
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\bin\Debug\net6.0\RomanToInt.exe
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\bin\Debug\net6.0\RomanToInt.deps.json
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\bin\Debug\net6.0\RomanToInt.runtimeconfig.json
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\bin\Debug\net6.0\RomanToInt.dll
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\bin\Debug\net6.0\RomanToInt.pdb
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\obj\Debug\net6.0\RomanToInt.csproj.AssemblyReference.cache
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\obj\Debug\net6.0\RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\obj\Debug\net6.0\RomanToInt.AssemblyInfoInputs.cache
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\obj\Debug\net6.0\RomanToInt.AssemblyInfo.cs
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\obj\Debug\net6.0\RomanToInt.csproj.CoreCompileInputs.cache
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\obj\Debug\net6.0\RomanToInt.dll
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\obj\Debug\net6.0\refint\RomanToInt.dll
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\obj\Debug\net6.0\RomanToInt.pdb
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\obj\Debug\net6.0\RomanToInt.genruntimeconfig.cache
+C:\Users\andre.farina\source\repos\Interview\RomanToInt\obj\Debug\net6.0\ref\RomanToInt.dll

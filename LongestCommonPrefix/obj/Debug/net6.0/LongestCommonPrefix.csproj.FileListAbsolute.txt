@@ -1,0 +1,15 @@
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.csproj.AssemblyReference.cache
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.AssemblyInfoInputs.cache
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.AssemblyInfo.cs
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.csproj.CoreCompileInputs.cache
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\bin\Debug\net6.0\LongestCommonPrefix.exe
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\bin\Debug\net6.0\LongestCommonPrefix.deps.json
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\bin\Debug\net6.0\LongestCommonPrefix.runtimeconfig.json
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\bin\Debug\net6.0\LongestCommonPrefix.dll
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\bin\Debug\net6.0\LongestCommonPrefix.pdb
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.dll
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\obj\Debug\net6.0\refint\LongestCommonPrefix.dll
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.pdb
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\obj\Debug\net6.0\LongestCommonPrefix.genruntimeconfig.cache
+C:\Users\andre.farina\source\repos\Interview\LongestCommonPrefix\obj\Debug\net6.0\ref\LongestCommonPrefix.dll

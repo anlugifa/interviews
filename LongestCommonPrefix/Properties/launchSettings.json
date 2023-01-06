@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LongestCommonPrefix": {
+      "commandName": "Project",
+      "commandLineArgs": "flower, flow, flight"
+    }
+  }
+}
